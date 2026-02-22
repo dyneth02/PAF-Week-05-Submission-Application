@@ -126,12 +126,12 @@ curl http://localhost:8080/greet/John?message=Have%20a%20nice%20day!
 
 The application logs all requests with timestamps:
 
-text
-
+```
 INFO GreetingController: Root endpoint accessed
 INFO GreetingController: Greet endpoint accessed
 INFO GreetingController: Greeting request received for name: John
 INFO GreetingController: Custom message provided: Have a nice day!
+```
 
 🧪 Testing
 ----------
