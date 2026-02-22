@@ -22,11 +22,8 @@ This project is a submission for Week 5 of the PAF (Programming Application Fram
 --------------------
 
 -   Java 17+
-
 -   Spring Boot 3.x
-
 -   Maven
-
 -   SLF4J for logging
 
 📁 Project Structure
